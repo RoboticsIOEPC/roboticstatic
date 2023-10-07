@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Posts on Robotics Club, IOEPC</title>
-    <link>https://roboticsioepc.github.io/blog/</link>
-    <description>Recent content in Blog Posts on Robotics Club, IOEPC</description>
+    <title>Blog Posts on Robotics Club</title>
+    <link>roboticsioepc.github.io/blog/</link>
+    <description>Recent content in Blog Posts on Robotics Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2023 05:00:00 +0000</lastBuildDate><atom:link href="https://roboticsioepc.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 05:00:00 +0000</lastBuildDate><atom:link href="roboticsioepc.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analytical and Experimental Approach for Modeling, Simulation and Validation of Two-Wheeled Self-Balancing Robot</title>
-      <link>https://roboticsioepc.github.io/blog/self_balancing/</link>
+      <link>roboticsioepc.github.io/blog/self_balancing/</link>
       <pubDate>Thu, 05 Oct 2023 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/blog/self_balancing/</guid>
+      <guid>roboticsioepc.github.io/blog/self_balancing/</guid>
       <description>Two-Wheeled Self-Balancing Robot (TWSBR) has many applications and is an important research topic in robotics and control engineering.</description>
     </item>
     
     <item>
       <title>Robotic Arm</title>
-      <link>https://roboticsioepc.github.io/blog/robotic_arm/</link>
+      <link>roboticsioepc.github.io/blog/robotic_arm/</link>
       <pubDate>Thu, 05 Oct 2023 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/blog/robotic_arm/</guid>
+      <guid>roboticsioepc.github.io/blog/robotic_arm/</guid>
       <description>A robotic arm is a mechanical arm that functions similarly to a human hand and is used in agriculture to pluck ready-to-eat fruits off trees using artificial intelligence.</description>
     </item>
     
     <item>
       <title>Automation in Agriculture Competition in China 2018</title>
-      <link>https://roboticsioepc.github.io/blog/aacc2018/</link>
+      <link>roboticsioepc.github.io/blog/aacc2018/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/blog/aacc2018/</guid>
+      <guid>roboticsioepc.github.io/blog/aacc2018/</guid>
       <description>In year 2018 for the first time Purwanchal Campus has participated in the international competition.</description>
     </item>
     
     <item>
       <title>Yantra 5.0</title>
-      <link>https://roboticsioepc.github.io/blog/yantra5/</link>
+      <link>roboticsioepc.github.io/blog/yantra5/</link>
       <pubDate>Mon, 12 Apr 2021 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/blog/yantra5/</guid>
+      <guid>roboticsioepc.github.io/blog/yantra5/</guid>
       <description>Robotics Association Nepal (RAN) organizes the annual event named YANTRA. In year 2073 B.</description>
     </item>
     
     <item>
       <title>Automation in Agriculture Competition in China 2019</title>
-      <link>https://roboticsioepc.github.io/blog/aacc2019/</link>
+      <link>roboticsioepc.github.io/blog/aacc2019/</link>
       <pubDate>Fri, 23 Oct 2020 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/blog/aacc2019/</guid>
+      <guid>roboticsioepc.github.io/blog/aacc2019/</guid>
       <description>In year 2019, Purwanchal Campus has participated in the international competition for second time .</description>
     </item>
     
     <item>
       <title>Vector 2.0</title>
-      <link>https://roboticsioepc.github.io/blog/vector2/</link>
+      <link>roboticsioepc.github.io/blog/vector2/</link>
       <pubDate>Sun, 06 Sep 2020 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/blog/vector2/</guid>
+      <guid>roboticsioepc.github.io/blog/vector2/</guid>
       <description>Vector – direct your vision is a national-level technical festival held at Paschimanchal campus annually.</description>
     </item>
     
     <item>
       <title>IOE Robocon 2018</title>
-      <link>https://roboticsioepc.github.io/blog/ioe_robocon_2018/</link>
+      <link>roboticsioepc.github.io/blog/ioe_robocon_2018/</link>
       <pubDate>Sun, 06 May 2018 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/blog/ioe_robocon_2018/</guid>
+      <guid>roboticsioepc.github.io/blog/ioe_robocon_2018/</guid>
       <description>Robotics Club Pulchowk Campus and Center for Applied Research and Development (CARD) has organized Robocon.</description>
     </item>
     
     <item>
       <title>IOE Robocon 2016</title>
-      <link>https://roboticsioepc.github.io/blog/ioe_robocon_2016/</link>
+      <link>roboticsioepc.github.io/blog/ioe_robocon_2016/</link>
       <pubDate>Mon, 04 Apr 2016 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/blog/ioe_robocon_2016/</guid>
+      <guid>roboticsioepc.github.io/blog/ioe_robocon_2016/</guid>
       <description>Robotics Association Nepal (RAN) organizes the annual event named YANTRA. In year 2073 B.</description>
     </item>
     
     <item>
       <title>SET- FARM 2017</title>
-      <link>https://roboticsioepc.github.io/blog/setfarm/</link>
+      <link>roboticsioepc.github.io/blog/setfarm/</link>
       <pubDate>Fri, 21 Mar 2014 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/blog/setfarm/</guid>
+      <guid>roboticsioepc.github.io/blog/setfarm/</guid>
       <description>Centre for Applied Research and Development (CARD) and Institute of Engineering ERC Dharan have been organized 3 days summer school on “Sustainable Engineering Tools for Agricultural Robotics and Mechanization ~ SET FARM – 2017” and Workshop.</description>
     </item>
     

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Robotics Club, IOEPC</title>
-    <link>https://roboticsioepc.github.io/tags/</link>
-    <description>Recent content in Tags on Robotics Club, IOEPC</description>
+    <title>Tags on Robotics Club</title>
+    <link>roboticsioepc.github.io/tags/</link>
+    <description>Recent content in Tags on Robotics Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2023 05:00:00 +0000</lastBuildDate><atom:link href="https://roboticsioepc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 05:00:00 +0000</lastBuildDate><atom:link href="roboticsioepc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>papers</title>
-      <link>https://roboticsioepc.github.io/tags/papers/</link>
+      <link>roboticsioepc.github.io/tags/papers/</link>
       <pubDate>Thu, 05 Oct 2023 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/tags/papers/</guid>
+      <guid>roboticsioepc.github.io/tags/papers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>competition</title>
-      <link>https://roboticsioepc.github.io/tags/competition/</link>
+      <link>roboticsioepc.github.io/tags/competition/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://roboticsioepc.github.io/tags/competition/</guid>
+      <guid>roboticsioepc.github.io/tags/competition/</guid>
       <description></description>
     </item>
     
