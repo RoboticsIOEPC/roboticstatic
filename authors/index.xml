@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on Robotics IOEPC</title>
+    <link>/authors/</link>
+    <description>Recent content in Members on Robotics IOEPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Coordinator] Sushant Shah</title>
+      <link>/authors/sushant-shah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sushant-shah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Secretary] Pawan Shah</title>
+      <link>/authors/pawan-shah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pawan-shah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Treasurer] Sandip Pandey</title>
+      <link>/authors/sandip-pandey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sandip-pandey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naresh Kumar Ray</title>
+      <link>/authors/naresh-kumar-ray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/naresh-kumar-ray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rasa Bhattarai</title>
+      <link>/authors/rasa-bhattarai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rasa-bhattarai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudra Khatri</title>
+      <link>/authors/rudra-khatri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rudra-khatri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spandan Guragain</title>
+      <link>/authors/spandan-guragain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/spandan-guragain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
