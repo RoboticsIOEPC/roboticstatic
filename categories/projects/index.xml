@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Robotics Club</title>
-    <link>roboticsioepc.github.io/categories/projects/</link>
+    <link>https://roboticsioepc.github.io/categories/projects/</link>
     <description>Recent content in Projects on Robotics Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2023 05:00:00 +0000</lastBuildDate><atom:link href="roboticsioepc.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 05:00:00 +0000</lastBuildDate><atom:link href="https://roboticsioepc.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analytical and Experimental Approach for Modeling, Simulation and Validation of Two-Wheeled Self-Balancing Robot</title>
-      <link>roboticsioepc.github.io/blog/self_balancing/</link>
+      <link>https://roboticsioepc.github.io/blog/self_balancing/</link>
       <pubDate>Thu, 05 Oct 2023 05:00:00 +0000</pubDate>
       
-      <guid>roboticsioepc.github.io/blog/self_balancing/</guid>
+      <guid>https://roboticsioepc.github.io/blog/self_balancing/</guid>
       <description>Two-Wheeled Self-Balancing Robot (TWSBR) has many applications and is an important research topic in robotics and control engineering.</description>
     </item>
     
     <item>
       <title>Robotic Arm</title>
-      <link>roboticsioepc.github.io/blog/robotic_arm/</link>
+      <link>https://roboticsioepc.github.io/blog/robotic_arm/</link>
       <pubDate>Thu, 05 Oct 2023 05:00:00 +0000</pubDate>
       
-      <guid>roboticsioepc.github.io/blog/robotic_arm/</guid>
+      <guid>https://roboticsioepc.github.io/blog/robotic_arm/</guid>
       <description>A robotic arm is a mechanical arm that functions similarly to a human hand and is used in agriculture to pluck ready-to-eat fruits off trees using artificial intelligence.</description>
     </item>
     
