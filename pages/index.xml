@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Robotics IOEPC</title>
-    <link>/pages/</link>
+    <link>https://roboticsioepc.github.io/pages/</link>
     <description>Recent content in Pages on Robotics IOEPC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://roboticsioepc.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elements</title>
-      <link>/elements/</link>
+      <link>https://roboticsioepc.github.io/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/elements/</guid>
+      <guid>https://roboticsioepc.github.io/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>/privacy-policy/</link>
+      <link>https://roboticsioepc.github.io/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/privacy-policy/</guid>
+      <guid>https://roboticsioepc.github.io/privacy-policy/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
     <item>
       <title>Registration Currently Closed</title>
-      <link>/closed/</link>
+      <link>https://roboticsioepc.github.io/closed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/closed/</guid>
+      <guid>https://roboticsioepc.github.io/closed/</guid>
       <description>Info
 Memberships and Registration will be opened during the starting days of a new sessions.</description>
     </item>
     
     <item>
       <title>Terms and Conditions</title>
-      <link>/code/</link>
+      <link>https://roboticsioepc.github.io/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/code/</guid>
+      <guid>https://roboticsioepc.github.io/code/</guid>
       <description>Note
 These Terms and Conditions Agreement (&amp;quot;Agreement&amp;quot;) is entered into between the Robotics Club, hereinafter referred to as the &amp;quot;Club,&amp;quot; and the participating group collectively referred to as the &amp;quot;Project Team.</description>
     </item>
