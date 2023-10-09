@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics Club</title>
-    <link>https://roboticsioepc.github.io/about/</link>
+    <link>https://robotics.ioepc.edu.np/about/</link>
     <description>Recent content on Robotics Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://roboticsioepc.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://robotics.ioepc.edu.np/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
