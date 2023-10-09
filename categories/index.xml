@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Robotics Club</title>
-    <link>https://robotics.ioepc.edu.np/categories/</link>
+    <link>https://roboticsioepc.github.io/categories/</link>
     <description>Recent content in Categories on Robotics Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2023 05:00:00 +0000</lastBuildDate><atom:link href="https://robotics.ioepc.edu.np/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 05:00:00 +0000</lastBuildDate><atom:link href="https://roboticsioepc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Achievements</title>
-      <link>https://robotics.ioepc.edu.np/categories/achievements/</link>
+      <link>https://roboticsioepc.github.io/categories/achievements/</link>
       <pubDate>Thu, 05 Oct 2023 05:00:00 +0000</pubDate>
       
-      <guid>https://robotics.ioepc.edu.np/categories/achievements/</guid>
+      <guid>https://roboticsioepc.github.io/categories/achievements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://robotics.ioepc.edu.np/categories/projects/</link>
+      <link>https://roboticsioepc.github.io/categories/projects/</link>
       <pubDate>Thu, 05 Oct 2023 05:00:00 +0000</pubDate>
       
-      <guid>https://robotics.ioepc.edu.np/categories/projects/</guid>
+      <guid>https://roboticsioepc.github.io/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Activities</title>
-      <link>https://robotics.ioepc.edu.np/categories/activities/</link>
+      <link>https://roboticsioepc.github.io/categories/activities/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 -0400</pubDate>
       
-      <guid>https://robotics.ioepc.edu.np/categories/activities/</guid>
+      <guid>https://roboticsioepc.github.io/categories/activities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participation</title>
-      <link>https://robotics.ioepc.edu.np/categories/participation/</link>
+      <link>https://roboticsioepc.github.io/categories/participation/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://robotics.ioepc.edu.np/categories/participation/</guid>
+      <guid>https://roboticsioepc.github.io/categories/participation/</guid>
       <description></description>
     </item>
     

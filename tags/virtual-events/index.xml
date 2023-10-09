@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>virtual events on Robotics Club</title>
-    <link>https://robotics.ioepc.edu.np/tags/virtual-events/</link>
+    <link>https://roboticsioepc.github.io/tags/virtual-events/</link>
     <description>Recent content in virtual events on Robotics Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://robotics.ioepc.edu.np/tags/virtual-events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://roboticsioepc.github.io/tags/virtual-events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virtual tour of International Space University in collaboration with NESRA</title>
-      <link>https://robotics.ioepc.edu.np/blog/activities/tour_nesra/</link>
+      <link>https://roboticsioepc.github.io/blog/activities/tour_nesra/</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 -0500</pubDate>
       
-      <guid>https://robotics.ioepc.edu.np/blog/activities/tour_nesra/</guid>
+      <guid>https://roboticsioepc.github.io/blog/activities/tour_nesra/</guid>
       <description>We just completed an amazing virtual tour of the International Space University, organized by NESRA Nepalese Space Research Association and co-organized by our Robotics Club - Purwanchal Campus.</description>
     </item>
     

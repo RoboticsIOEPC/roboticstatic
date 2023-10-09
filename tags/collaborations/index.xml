@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>collaborations on Robotics Club</title>
-    <link>https://robotics.ioepc.edu.np/tags/collaborations/</link>
+    <link>https://roboticsioepc.github.io/tags/collaborations/</link>
     <description>Recent content in collaborations on Robotics Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://robotics.ioepc.edu.np/tags/collaborations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://roboticsioepc.github.io/tags/collaborations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robo Soccer Event in collaboration with SOMES</title>
-      <link>https://robotics.ioepc.edu.np/blog/activities/robosoccor_somes/</link>
+      <link>https://roboticsioepc.github.io/blog/activities/robosoccor_somes/</link>
       <pubDate>Sat, 18 Feb 2023 00:00:00 -0500</pubDate>
       
-      <guid>https://robotics.ioepc.edu.np/blog/activities/robosoccor_somes/</guid>
+      <guid>https://roboticsioepc.github.io/blog/activities/robosoccor_somes/</guid>
       <description>Check out these incredible photos from our recent robo soccer event in collaboration with AIMES.</description>
     </item>
     
     <item>
       <title>Robo Race Event in collaboration with X-tech</title>
-      <link>https://robotics.ioepc.edu.np/blog/activities/roborace_xtech/</link>
+      <link>https://roboticsioepc.github.io/blog/activities/roborace_xtech/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 -0500</pubDate>
       
-      <guid>https://robotics.ioepc.edu.np/blog/activities/roborace_xtech/</guid>
+      <guid>https://roboticsioepc.github.io/blog/activities/roborace_xtech/</guid>
       <description>It was a thrilling race to the finish line at the X-Tech Robo Race, and we couldn&amp;rsquo;t be more proud of our victorious team Mechatronics!</description>
     </item>
     
     <item>
       <title>Virtual tour of International Space University in collaboration with NESRA</title>
-      <link>https://robotics.ioepc.edu.np/blog/activities/tour_nesra/</link>
+      <link>https://roboticsioepc.github.io/blog/activities/tour_nesra/</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 -0500</pubDate>
       
-      <guid>https://robotics.ioepc.edu.np/blog/activities/tour_nesra/</guid>
+      <guid>https://roboticsioepc.github.io/blog/activities/tour_nesra/</guid>
       <description>We just completed an amazing virtual tour of the International Space University, organized by NESRA Nepalese Space Research Association and co-organized by our Robotics Club - Purwanchal Campus.</description>
     </item>
     
